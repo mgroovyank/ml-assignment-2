@@ -1,4 +1,4 @@
-## Machine Learning Assignment 2: Multi-Class Classification & Cloud Deployment
+## Machine Learning Assignment 2: Multi-Class Classification & Streamlit Deployment
 By - MAYANK CHHIPA(2026AK05493)
 ---
 
