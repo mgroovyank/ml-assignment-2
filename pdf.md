@@ -68,8 +68,6 @@ This production-grade workspace, model registry, and Streamlit application deplo
 
 👉 **GitHub Repository Link:** [https://github.com/mgroovyank/ml-assignment-2](https://github.com/mgroovyank/ml-assignment-2)
 
-*Note: The linked repository contains all required project artifacts, including `app.py`, `requirements.txt`, sample holdout `test_data.csv` arrays, complete documentation history, and the pre-trained production pipeline binaries (`.joblib`) stored inside the `/model` directory subfolder.*
-
 ### d. Models Used
 The metrics below demonstrate validation results computed across the exact same 400 holdout samples within the uniform processed matrix space:
 
