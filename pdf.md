@@ -19,9 +19,7 @@
 ## 🖼️ 3. BITS Virtual Lab Environment Execution Screenshot
 Below is the verified screenshot documenting the successful compilation, metric evaluations, and joblib file outputs executed within the **BITS Virtual Lab environment workspace**:
 
-![BITS Virtual Lab Assignment Execution Screenshot](model/virtual_lab_execution.png "BITS Virtual Lab Environment Verification Step")
-
-*(Note: For the submitted PDF report, replace the image placeholder above with your actual captured desktop graphic showing the code run successfully inside the virtual workspace environment).*
+<img width="1911" height="1012" alt="image" src="https://github.com/user-attachments/assets/9d10547b-b356-4077-b588-80c8bb74c593" />
 
 ---
 
