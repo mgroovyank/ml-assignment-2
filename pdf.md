@@ -1,5 +1,5 @@
 ## Machine Learning Assignment 2: Multi-Class Classification & Cloud Deployment
-
+By - MAYANK CHHIPA(2026AK05493)
 ---
 
 ## 🔗 1. GitHub Repository Link
