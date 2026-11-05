@@ -4,7 +4,7 @@
 
 ## 🔗 1. GitHub Repository Link
 
-👉 **GitHub Repository Link:** [https://github.com](https://github.com)
+👉 **GitHub Repository Link:** [https://github.com/mgroovyank/ml-assignment-2](https://github.com/mgroovyank/ml-assignment-2)
 
 ---
 
