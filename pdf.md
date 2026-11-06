@@ -17,7 +17,6 @@ By - MAYANK CHHIPA(2026AK05493)
 ---
 
 ## 🖼️ 3. BITS Virtual Lab Environment Execution Screenshot
-Below is the verified screenshot documenting the successful compilation, metric evaluations, and joblib file outputs executed within the **BITS Virtual Lab environment workspace**:
 
 <img width="1911" height="1012" alt="image" src="https://github.com/user-attachments/assets/9d10547b-b356-4077-b588-80c8bb74c593" />
 
@@ -64,7 +63,6 @@ The dataset contains **2,000 instances** with **21 raw technical attributes** re
 ---
 
 ### c. GitHub Repository Link
-This production-grade workspace, model registry, and Streamlit application deployment pipeline are securely maintained within the following public repository:
 
 👉 **GitHub Repository Link:** [https://github.com/mgroovyank/ml-assignment-2](https://github.com/mgroovyank/ml-assignment-2)
 
