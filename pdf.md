@@ -10,7 +10,7 @@ By - MAYANK CHHIPA(2026AK05493)
 
 ## 🚀 2. Live Streamlit App Link
 
-👉 **Live Dashboard App:** [https://streamlit.io](https://streamlit.io)
+👉 **Live Dashboard App:** [https://ml-assignment-2-cfa3sdasgyahvxyp4appvof.streamlit.app/]([https://streamlit.io](https://ml-assignment-2-cfa3sdasgyahvxyp4appvof.streamlit.app/))
 
 *   **Inference Verification Instructions:** Download the `test_data.csv` file from the repository, upload it inside the app’s sidebar module, select any machine learning classifier from the interactive dropdown list, and review the instant performance matrix changes.
 
