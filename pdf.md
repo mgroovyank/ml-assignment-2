@@ -22,7 +22,7 @@ By - MAYANK CHHIPA(2026AK05493)
 
 ---
 
-## 📄 4. Comprehensive GitHub README Content (Step 5 Details)
+## 📄 4. GitHub README Content
 
 ### a. Problem Statement
 In the highly competitive mobile phone market, telecommunication companies and retail distributors cannot simply set device prices based on arbitrary estimations or basic brand markups. Instead, pricing must be derived systematically from the device's technical specifications and internal hardware components (e.g., RAM capacity, battery power, camera megapixels, and network capabilities). 
